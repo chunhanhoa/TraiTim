@@ -118,23 +118,6 @@ document.onmousewheel = function(e) {
 };
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var canvas = document.getElementById("canvas");
 
 canvas.width = window.innerWidth;
