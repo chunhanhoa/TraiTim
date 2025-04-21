@@ -1,6 +1,6 @@
 # Traitim 💕
 Bạn có thể truy cập dự án tại đây:
-🔗 [Heart](https://chunhanhoa.github.io/Traitim)
+🔗 [Heart](https://chunhanhoa.github.io/TraiTim)
 
 Traitim/
 ├── index.html      
