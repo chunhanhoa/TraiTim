@@ -2,7 +2,7 @@
 
 ## Xem Trực Tiếp Ở Đây Nè :>
 
-Truy cập hoạt họa tại đây: [Trái Tim](https://chunhanhoa.github.io/Traitim)
+Truy cập hoạt họa tại đây: [Trái Tim](https://chunhanhoa.github.io/TraiTim)
 
 ## Tính Năng
 
